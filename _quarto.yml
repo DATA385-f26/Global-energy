@@ -7,7 +7,7 @@ project:
 
 website:
   page-navigation: true
-  title: "TITLE"
+  title: "Global Energy Use"
   description: "Project 01: Data Collection Facts Label"
 
   navbar: 
@@ -19,8 +19,8 @@ website:
         menu:
         - text: "Tristen"
           href: tristen.qmd
-        - text: "Person 2"
-          href: person2.qmd
+        - text: "Jasper Eerkens"
+          href: jasper.md
       - text: "Comparative Analysis"
         href: comparison.qmd
 
