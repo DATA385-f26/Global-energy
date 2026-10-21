@@ -1,0 +1,36 @@
+---
+title: "Comparative Analysis"
+format: html
+---
+
+## Differences
+Both datasets contain energy information for all of the countries in the world. They share the following information in each entry: the year and country.
+
+The IEA dataset “World Energy Balances” (download) presented in “Energy Mix” contains more data than what is shared. Alongside what it shares with the other dataset, it contains production/supply, sector/total consumption, and import/export for each energy type.
+
+The Our World Energy dataset “Primary energy use per person” contains no further data than what is shared. The dataset contains the history of each country's total energy consumption per capita.
+
+
+## Trustworthiness / Reputability
+_“What limitations or data quality issues might come from how each source was collected?”_
+
+Both the IEA and Our World Energy rely on cooperation between themselves and the nations/regions that are part of the dataset. This means that collection methods can vary based on the technological advancements, instrument maintenance, etc. of each country, which can ultimately affect the quality of data collected. This also means that if nations refuse to cooperate, data will not be collected.
+
+
+## Relevance to research question
+_“How do the collection methods affect what kinds of conclusions someone could make?”_
+
+Both the IEA and Our World Energy rely on cooperation between themselves and the nations/regions that are part of the dataset. This means that there can be unreliability, biases, etc. in the collection process, which can result in producing false conclusions. The data for each organization is only collected annually (likely yearly based on the datasets), so the data is generalized, which means that trends cannot be determined in the short term.
+
+
+## Ethical soundness
+_“What possible bias might be present in either source?”_
+
+Both the IEA and Our World Energy rely on cooperation between themselves and the nations/regions that are part of the dataset. This means that countries/regions could provide skewed or false data for economic and/or political reasons. Our World Energy also tracks energy consumption for each continent and country's income level, so there can be biases with generalization, such as regions having skewed averages due to a few entries in that given area.
+
+## Dataset scope
+_“What does one row, record, case, or entry represent in each source?”_
+
+Each entry in the IEA dataset represents each country's production/supply, sector/total consumption, and import/export for each energy type. Each entry is broken into several rows, with each row representing the country, energy type, and “flow” (production, consumption, import, etc.). The remaining columns are the years and the value for each row at the end of that year. Each row is measured in petajoules, with electricity output being measured in gigawatt-hours.
+
+Each entry in the Our World Energy dataset represents each country's consumption per capita. Each entry is broken into several rows, where each row represents the country, year, and the total energy use divided by population, measured in kilowatt hours.

@@ -22,7 +22,7 @@ website:
         - text: "Jasper Eerkens"
           href: jasper.qmd
       - text: "Comparative Analysis"
-        href: comparison.qmd
+        href: analysis.qmd
 
 format:
   html:
