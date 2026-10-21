@@ -17,10 +17,10 @@ website:
         file: index.qmd
       - text: Dataset Details
         menu:
-        - text: "Tristen"
+        - text: "Tristen Hale"
           href: tristen.qmd
         - text: "Jasper Eerkens"
-          href: jasper.md
+          href: jasper.qmd
       - text: "Comparative Analysis"
         href: comparison.qmd
 

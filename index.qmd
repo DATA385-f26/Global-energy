@@ -4,8 +4,8 @@ title: "Investigating a Dataset's Ingredients"
 
 ## Topic Area
 
-Introduce your topic area. What did you choose, why did you choose it? 
+Our topic area was global energy usage. We chose this area due to its high degree of impact on society compared to the other topic areas we could have chosen. 
 
 ## Research Question
 
-State your research question that you hope to answer with data. 
+Our research question was "Which countries are the most energy independent, and how does that affect energy production, consumption, imports, and exports. How does that compare to nations that are energy dependent?"

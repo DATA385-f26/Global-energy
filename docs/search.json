@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "tristen.html",
+    "href": "tristen.html",
+    "title": "Data Collection Facts Label",
+    "section": "",
+    "text": "Data Source Facts Label\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource Identity\n\n\n\n\n\n\nSource name\n\n\nEnergy Mix, Enerygy Balanaces (2025 highlights)\n\n\n\n\nDomain/topic\n\n\nWorld energy usage\n\n\n\n\nSource type\n\n\nResearch dataset\n\n\n\n\n\n\n\n\n\n\n\nCollection Context\n\n\n\n\n\n\nCollector/producer\n\n\nInternational Energy Agency (IEA)\n\n\n\n\nOriginal purpose\n\n\nMonitoring / Planning\n\n\n\n\nCollection method\n\n\nGovernment/Reginal collaboration\n\n\n\n\nRecord-creation event\n\n\nAnnual questionnaires, Voluntary data, etc.\n\n\n\n\n\n\n\n\n\n\n\nObservation and Scope\n\n\n\n\n\n\nUnit of observation\n\n\nEnegy (of several types) usage per country\n\n\n\n\nPopulation or objects represented\n\n\nCountry\n\n\n\n\nTime period covered\n\n\n1970-2024\n\n\n\n\nGeographic area coverage\n\n\nWorldwide\n\n\n\n\n\n\n\n\n\n\n\nVariables and Data Structure\n\n\n\n\n\n\nMain variables/fields\n\n\nCountry, Product, Flow, Year\n\n\n\n\nData types included\n\n\nInteger, Character/String\n\n\n\n\nDirect measurements\n\n\n“Imports”, “Exports”, “Total energy supply”, “Electricity, CHP and heat plants”, “Oil refineries, transformation”, “Total final consumption”, “Industry”, “Transport”, “Residential”, “Commercial and public services”, “Other final consumption”\n\n\n\n\nPossible proxy variables\n\n\nN/A\n\n\n\n\n\n\n\n\n\n\n\nDocumentation\n\n\n\n\n\n\nDocumentation found\n\n\nContent, Definitions, Balance Explained pages in the dataset. These cover what each section means and how it was calculated.\n\n\n\n\nStated collection details\n\n\nData is obtained with annaul questionnaires from each country as listed in their official documentation (pg. 54)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Investigating a Dataset’s Ingredients",
+    "section": "",
+    "text": "Our topic area was global energy usage. We chose this area due to its high degree of impact on society compared to the other topic areas we could have chosen."
+  },
+  {
+    "objectID": "index.html#topic-area",
+    "href": "index.html#topic-area",
+    "title": "Investigating a Dataset’s Ingredients",
+    "section": "",
+    "text": "Our topic area was global energy usage. We chose this area due to its high degree of impact on society compared to the other topic areas we could have chosen."
+  },
+  {
+    "objectID": "index.html#research-question",
+    "href": "index.html#research-question",
+    "title": "Investigating a Dataset’s Ingredients",
+    "section": "Research Question",
+    "text": "Research Question\nOur research question was “Which countries are the most energy independent, and how does that affect energy production, consumption, imports, and exports. How does that compare to nations that are energy dependent?”"
+  },
+  {
+    "objectID": "jasper.html",
+    "href": "jasper.html",
+    "title": "Data Collection Facts Label",
+    "section": "",
+    "text": "Data Source Facts Label\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource Identity\n\n\n\n\n\n\nSource name\n\n\nPrimary Energy Use Per Person from Our World in Data\n\n\n\n\nDomain/topic\n\n\nEnergy\n\n\n\n\nSource type\n\n\nPublic Dataset\n\n\n\n\n\n\n\n\n\n\n\nCollection Context\n\n\n\n\n\n\nCollector/producer\n\n\nResearchers (Our World in Data)\n\n\n\n\nOriginal purpose\n\n\nMonitoring\n\n\n\n\nCollection method\n\n\nPublic Records (Records from governments about national energy usage)\n\n\n\n\nRecord-creation event\n\n\nYearly energy usage statistics being reported by a government.\n\n\n\n\n\n\n\n\n\n\n\nObservation and Scope\n\n\n\n\n\n\nUnit of observation\n\n\nIn the version of the dataset I downloaded, each row represents one country’s per capita energy supply in 2025.\n\n\n\n\nPopulation or objects represented\n\n\nCountries\n\n\n\n\nTime period covered\n\n\nThe version I am using only uses data from 2025, but the source has a version available with data going back to 1965.\n\n\n\n\nGeographic area coverage\n\n\nGlobal\n\n\n\n\n\n\n\n\n\n\n\nVariables and Data Structure\n\n\n\n\n\n\nMain variables/fields\n\n\nCountry, Country Code, Year, Energy Supply (kilowatt hours per person).\n\n\n\n\nData types included\n\n\nCategorical/Text (Country), ID (Country Code), Numerical (Year, Energy Supply).\n\n\n\n\nDirect measurements\n\n\nYear, Energy Supply\n\n\n\n\nPossible proxy variables\n\n\nN/A\n\n\n\n\n\n\n\n\n\n\n\nDocumentation\n\n\n\n\n\n\nDocumentation found\n\n\nThe dataset came with a readme file, which had information about the structure of the CSV, how the data was compiled, and the sources it was compiled from.\n\n\n\n\nStated collection details\n\n\nNot stated."
+  }
+]
