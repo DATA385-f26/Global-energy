@@ -6,9 +6,9 @@ format: html
 ## Differences
 Both datasets contain energy information for all of the countries in the world. They share the following information in each entry: the year and country.
 
-The IEA dataset “World Energy Balances” (download) presented in “Energy Mix” contains more data than what is shared. Alongside what it shares with the other dataset, it contains production/supply, sector/total consumption, and import/export for each energy type.
+The IEA dataset “[World Energy Balances](https://www.iea.org/data-and-statistics/data-product/world-energy-balances)” ([download](https://iea.blob.core.windows.net/assets/6d528a5a-3a79-4fdd-a372-62614efb2b97/WorldEnergyBalancesHighlights2025.xlsx)) presented in “[Energy Mix](https://www.iea.org/world/energy-mix)” contains more data than what is shared. Alongside what it shares with the other dataset, it contains production/supply, sector/total consumption, and import/export for each energy type.
 
-The Our World Energy dataset “Primary energy use per person” contains no further data than what is shared. The dataset contains the history of each country's total energy consumption per capita.
+The Our World Energy dataset “[Primary energy use per person](https://ourworldindata.org/grapher/energy-mix?source=total&metric=per_capita)” contains no further data than what is shared. The dataset contains the history of each country's total energy consumption per capita.
 
 
 ## Trustworthiness / Reputability
