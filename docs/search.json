@@ -1,9 +1,0 @@
-[
-  {
-    "objectID": "jasper.html",
-    "href": "jasper.html",
-    "title": "Data Collection Facts Label",
-    "section": "",
-    "text": "Data Source Facts Label\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource Identity\n\n\n\n\n\n\nSource name\n\n\nPrimary Energy Use Per Person from Our World in Data\n\n\n\n\nDomain/topic\n\n\nEnergy\n\n\n\n\nSource type\n\n\nPublic Dataset\n\n\n\n\n\n\n\n\n\n\n\nCollection Context\n\n\n\n\n\n\nCollector/producer\n\n\nResearchers (Our World in Data)\n\n\n\n\nOriginal purpose\n\n\nMonitoring\n\n\n\n\nCollection method\n\n\nPublic Records (Records from governments about national energy usage)\n\n\n\n\nRecord-creation event\n\n\nYearly energy usage statistics being reported by a government.\n\n\n\n\n\n\n\n\n\n\n\nObservation and Scope\n\n\n\n\n\n\nUnit of observation\n\n\nIn the version of the dataset I downloaded, each row represents one country’s per capita energy supply in 2025.\n\n\n\n\nPopulation or objects represented\n\n\nCountries\n\n\n\n\nTime period covered\n\n\nThe version I am using only uses data from 2025, but the source has a version available with data going back to 1965.\n\n\n\n\nGeographic area coverage\n\n\nGlobal\n\n\n\n\n\n\n\n\n\n\n\nVariables and Data Structure\n\n\n\n\n\n\nMain variables/fields\n\n\nCountry, Country Code, Year, Energy Supply (kilowatt hours per person).\n\n\n\n\nData types included\n\n\nCategorical/Text (Country), ID (Country Code), Numerical (Year, Energy Supply).\n\n\n\n\nDirect measurements\n\n\nYear, Energy Supply\n\n\n\n\nPossible proxy variables\n\n\nN/A\n\n\n\n\n\n\n\n\n\n\n\nDocumentation\n\n\n\n\n\n\nDocumentation found\n\n\nThe dataset came with a readme file, which had information about the structure of the CSV, how the data was compiled, and the sources it was compiled from.\n\n\n\n\nStated collection details\n\n\nNot stated."
-  }
-]
